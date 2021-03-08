@@ -118,11 +118,11 @@ WARN_LOGFILE           =
 #---------------------------------------------------------------------------
 # Configuration options related to the input files
 #---------------------------------------------------------------------------
-INPUT                  = "./../Bread&Butter/"
+INPUT                  = "./../Assets/Bread&Butter/"
 INPUT_ENCODING         = UTF-8
 FILE_PATTERNS          = *.cs                         
 RECURSIVE              = YES
-EXCLUDE                = "./../Bread&Butter/Testing/"
+EXCLUDE                = "./../Assets/Bread&Butter/Testing/"
 EXCLUDE_SYMLINKS       = NO
 EXCLUDE_PATTERNS       =
 EXCLUDE_SYMBOLS        =
